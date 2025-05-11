@@ -1,0 +1,11 @@
+node_name: livekit-node
+region: eu-central
+rtc:
+  use_tcp: true
+  port_range_start: 50000
+  port_range_end: 51000
+signal:
+  ip: 0.0.0.0
+  port: 7880
+keys:
+  test-api-key: test-api-secret
