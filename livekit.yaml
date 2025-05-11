@@ -9,3 +9,4 @@ signal:
   port: 7880
 keys:
   test-api-key: test-api-secret
+
